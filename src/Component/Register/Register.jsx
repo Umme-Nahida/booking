@@ -3,7 +3,6 @@ import React from 'react';
 const Register = () => {
     return (
         <div>
-
           <h1>Register Now</h1>
           <form>
             <input type="text" name="name" placeholder='your name' className='w-full p-6 border focus:border-b-blue-400' />
